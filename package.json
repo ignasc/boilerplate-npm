@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ignas C",
+	"description": "This is a FreeCodeCamp back end challenge",
+  "keywords": ["ignas", "freecodecamp", "newbie", "learning", "backend"],
+  "license": "MIT",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
